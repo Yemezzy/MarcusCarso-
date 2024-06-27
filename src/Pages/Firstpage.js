@@ -19,7 +19,7 @@ const Firstpage = () => {
             <li>Partners</li>
             <li>Trending Bots</li>
         </ul>
-            <button className='font-semi-bold border-[#FDB94D] md:w-[18%] px-5 py-2 border-2'>Contact us</button>
+            <button className='font-semibold border-[#FDB94D] text-sm md:text-base md:w-[18%] px-5 py-2 border-2'>Contact us</button>
 </div>
 
 
@@ -41,7 +41,7 @@ const Firstpage = () => {
                 MarcusCarso Got you covered..
                 </p>
             
-            <ul className='grid md:grid-cols-4 grid-cols-3 text-sm text-[#FDB84E] list mt-5'>
+            <ul className='grid md:grid-cols-4 grid-cols-3 text-xs text-[#FDB84E] list mt-2 md:mt-5'>
 <li>Exchange Listing</li>
 <li>CMC/CG Listing</li>
 <li>Dextool Trending</li>
@@ -49,19 +49,19 @@ const Firstpage = () => {
 <li>Promotions</li>
             </ul>
        <div className='grid grid-cols-3 gap-2 md:gap-5'>
-       <button className='flex gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
            
-           <FaTelegramPlane className='text-xl md:text-2xl'/>
+           <FaTelegramPlane className=' md:text-2xl'/>
            Telegram
        </button>
-       <button className='flex gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
            
-           <FaTwitter className='text-xl md:text-2xl'/>
+           <FaTwitter className=' md:text-2xl'/>
            Twitter
        </button>
-       <button className='flex gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
            
-           <FaMailBulk className='text-xl md:text-2xl'/>
+           <FaMailBulk className=' md:text-2xl'/>
            Contact
        </button>
 

@@ -3,10 +3,10 @@ import React from 'react'
 const Partners = () => {
   return (
     <div className='md:mt-28 mt-10 px-5 md:px-10'>
-          <p className='md:text-4xl text-3xl md:text-center pt-16 text-[#118A92] font-bold'>
+          <p className='md:text-4xl text-2xl md:text-center pt-16 text-[#118A92] font-bold'>
            Trusted Partners/Collaborations
       </p>
-      <div className='md:mt-10 mt-5 grid gap-10 grid-cols-2 md:grid-cols-4'>
+      <div className='mt-10  grid gap-10 grid-cols-2 md:grid-cols-4'>
 <img src="/exchanges/mexc.svg" alt="" className=''/>
 <img src="/exchanges/kucoin.svg" alt="" className='w-[90%]'/>
 <img src="/exchanges/bitget.webp" alt="" className='w-[90%]'/>
