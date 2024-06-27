@@ -3,7 +3,7 @@ import Firstpage from './Pages/Firstpage';
 
 function App() {
   return (
-    <div className=" text-[#DADADA] bg-black">
+    <div className=" text-white bg-black">
 <Firstpage/>
     </div>
   );
