@@ -5,7 +5,7 @@ const Footer = () => {
     <div className='bg-[#FDB84E] md:p-10 md:pb-5 p-5  text-black mt-10 md:mt-20'>
       <div className='grid md:grid-cols-3'>
         <section className=''>
-            <p className='font-bold text-xl'>Message us:</p>
+            <p className='font-bold text-lg md:text-xl'>Message us:</p>
             <div className='flex md:mt-2 gap-5 font-semibold underline'>
                 <a href=""><p>Telegram</p></a>
                 <a href=""><p>Twitter</p></a>
@@ -14,7 +14,7 @@ const Footer = () => {
             <p className='md:text-base text-sm md:pr-5 mt-1 '>For more information or to discuss how we can support your project, please get in touch with us.</p>
         </section>
         <section>
-        <p className='font-bold text-xl mt-5 md:mt-0'>Services:</p>
+        <p className='font-bold text-lg md:text-xl mt-5 md:mt-0'>Services:</p>
             <div className='grid md:mt-2 mt-1 w-full grid-cols-2 md:grid-cols-3 text-sm md:gap-3 font-semibold'>
                 <p>DEXTOOL TRENDING</p>
                 <p>CEX LISTINGS</p>
@@ -28,7 +28,7 @@ const Footer = () => {
    
         </section>
         <section className='md:pl-5 mt-5'>
-        <p className='font-bold text-xl'>Newsletter:</p>
+        <p className='font-bold text-lg md:text-xl'>Newsletter:</p>
         <div className='md:mt-2'>
 <p>Subscribe to our newsletter!</p>
 <div className='flex gap-2'>
