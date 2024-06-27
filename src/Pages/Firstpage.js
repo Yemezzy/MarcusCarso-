@@ -3,6 +3,7 @@ import About from './About'
 import Services from './Services'
 import { FaMailBulk, FaTelegramPlane, FaTwitter } from 'react-icons/fa'
 import Partners from './Partners'
+import Footer from './Footer'
 
 const Firstpage = () => {
   return (
@@ -76,6 +77,7 @@ const Firstpage = () => {
       <About/>
       <Services/>
       <Partners/>
+      <Footer/>
     </div>
   )
 }
