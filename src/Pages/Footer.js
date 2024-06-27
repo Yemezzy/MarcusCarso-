@@ -11,11 +11,11 @@ const Footer = () => {
                 <a href=""><p>Twitter</p></a>
                 <a href=""><p>Email</p></a>
             </div>
-            <p className=' md:pr-5 mt-2'>For more information or to discuss how we can support your project, please get in touch with us.</p>
+            <p className='md:text-base text-sm md:pr-5 mt-1 '>For more information or to discuss how we can support your project, please get in touch with us.</p>
         </section>
         <section>
         <p className='font-bold text-xl mt-5 md:mt-0'>Services:</p>
-            <div className='grid md:mt-2 w-full grid-cols-2 md:grid-cols-3 text-sm md:gap-3 font-semibold'>
+            <div className='grid md:mt-2 mt-1 w-full grid-cols-2 md:grid-cols-3 text-sm md:gap-3 font-semibold'>
                 <p>DEXTOOL TRENDING</p>
                 <p>CEX LISTINGS</p>
             
@@ -32,8 +32,8 @@ const Footer = () => {
         <div className='md:mt-2'>
 <p>Subscribe to our newsletter!</p>
 <div className='flex gap-2'>
-<input type="text" className='border-2 px-3 border-black outline-none bg-transparent w-[60%] h-[30px]'/>
-<button className='border-2 border-black outline-none font-semibold text-sm bg-black text-[#FDB84E] w-[30%] h-[30px]'>Submit</button>
+<input type="text" className='border-2 px-3 border-black outline-none bg-transparent md:w-[60%] w-[65%] h-[35px] md:h-[30px]'/>
+<button className='border-2 border-black outline-none font-semibold text-sm bg-black text-[#FDB84E] w-[30%] h-[35px] md:h-[30px]'>Submit</button>
 </div>
         </div>
         </section>
