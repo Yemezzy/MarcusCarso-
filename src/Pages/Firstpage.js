@@ -7,7 +7,7 @@ import Partners from './Partners'
 const Firstpage = () => {
   return (
     <div className=''>
-      <nav className='md:p-10 p-5 pb-5 bg-black flex justify-between items-center'>
+      <nav className='md:p-10 fixed top-0 w-full p-5 pb-5 bg-black flex justify-between items-center'>
         <img src="/1x/Asset 4.png" alt="" className='w-20'/>
 
 <div className='md:w-[50%] flex justify-end items-center bbn'>
@@ -19,7 +19,7 @@ const Firstpage = () => {
             <li>Partners</li>
             <li>Trending Bots</li>
         </ul>
-            <button className='font-semibold border-[#FDB94D] text-sm md:text-base md:w-[18%] px-5 py-2 border-2'>Contact us</button>
+            <button className='font-semibold border-[#FDB94D] text-sm md:text-base md:w-[20%] px-5 py-2 border-2'>Contact us</button>
 </div>
 
 
@@ -28,7 +28,7 @@ const Firstpage = () => {
 
 
 
-      <div className='md:mt-24 mt:10 pb-10'>
+      <div className='pt-[15%] pt pb-10'>
         <div className='md:grid grid-cols-2'>
         <section className='md:p-10 mt-10 md:mt-0 p-5 md:pl-20'>
                 <p className='md:text-6xl text-4xl font-bold'>
@@ -41,7 +41,7 @@ const Firstpage = () => {
                 MarcusCarso Got you covered..
                 </p>
             
-            <ul className='grid md:grid-cols-4 grid-cols-3 text-xs text-[#FDB84E] list mt-2 md:mt-5'>
+            <ul className='grid md:grid-cols-4 grid-cols-3 md:text-base text-xs text-[#FDB84E] list mt-2 md:mt-5'>
 <li>Exchange Listing</li>
 <li>CMC/CG Listing</li>
 <li>Dextool Trending</li>
