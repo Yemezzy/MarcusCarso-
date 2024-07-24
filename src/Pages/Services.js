@@ -13,14 +13,15 @@ const Services = () => {
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Dextool Trending</p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+
+Quickly get your token trending among DEXTools' top pairs. 
+send a message to secure a spot in the next trending pairs.
 </p>
 </div>
 </section>
@@ -28,14 +29,13 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Cex listings</p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+We are in collaboration with some CEX exchanges, which enables us fast access to listing and at discount rate.
 </p>
 </div>
 </section>
@@ -43,14 +43,13 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Chinese/asian marketing</p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+  Our platform offer a wide ramge of chinese investors, which are open to invest and engage with the project for a long term.
 </p>
 </div>
 </section>
@@ -58,14 +57,13 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Telegram calls</p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+All calls channels we are in paterner whth are verifed by Pinksale and are filled with active investors.
 </p>
 </div>
 </section>
@@ -73,14 +71,13 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Cmc/cg listing</p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+We offer CMC/CG Fast track listing, this can be done through the database and also token/coin update.
 </p>
 </div>
 </section>
@@ -89,14 +86,14 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Telegram/Twitter AMA’s
 </p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+  This help the growth of your project by intracting with bigger 
+  infulencers bringing more awareness and audience to your project.
 </p>
 </div>
 </section>
@@ -105,14 +102,13 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Shilling services
 </p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+We have a group of shliiers always active and ready to shill your project to the moon.
 </p>
 </div>
 </section>
@@ -121,14 +117,14 @@ Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numqua
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Tending bots
 </p>
-<a href="">
+<a href="http://t.me/Marcus_Caros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
 <div className='mt-5 text-sm'>
 <p>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-Nulla ad possimus accusamus nisi excepturi odio neque alias illo adipisci numquam.
+We offer various trending services through the help of our trending bots,
+dextscreener, sol-trending, dextool and others.
 </p>
 </div>
 </section>

@@ -50,21 +50,25 @@ const Firstpage = () => {
 <li>Promotions</li>
             </ul>
        <div className='grid grid-cols-3 gap-2 md:gap-5'>
-       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
-           
-           <FaTelegramPlane className=' md:text-2xl'/>
+ 
+ 
+     
+       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <FaTelegramPlane className=' md:text-2xl'/>
            Telegram
-       </button>
-       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
-           
-           <FaTwitter className=' md:text-2xl'/>
+            </a>
+     
+       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <FaTwitter className=' md:text-2xl'/>
            Twitter
-       </button>
-       <button className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
-           
-           <FaMailBulk className=' md:text-2xl'/>
+            </a>
+     
+       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+     
+       <FaMailBulk className=' md:text-2xl'/>
            Contact
-       </button>
+            </a>
+  
 
        </div>
             </section>

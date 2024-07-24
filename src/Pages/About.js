@@ -25,8 +25,12 @@ const About = () => {
        Let MarcusCarso be your partner in navigating the dynamic and evolving crypto landscape.
       </p>
       <div className='md:mt-10 mt-5 gap-5 flex justify-center text-3xl md:text-5xl text-[#FDB94D]'>
+        <a href="http://t.me/Marcus_Caros">
         <FaTelegramPlane className=''/>
+        </a>
+        <a href="http://t.me/Marcus_Caros">
         <FaTwitter/>
+        </a>
       </div>
     </div>
   )
