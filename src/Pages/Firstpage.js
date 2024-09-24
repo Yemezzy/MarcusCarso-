@@ -53,17 +53,17 @@ const Firstpage = () => {
  
  
      
-       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <a href="http://t.me/MarcusCaros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
        <FaTelegramPlane className=' md:text-2xl'/>
            Telegram
             </a>
      
-       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <a href="http://t.me/MarcusCaros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
        <FaTwitter className=' md:text-2xl'/>
            Twitter
             </a>
      
-       <a href="http://t.me/Marcus_Caros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
+       <a href="http://t.me/MarcusCaros" className='flex gap-2 md:gap-3 border items-center hover:bg-[#FDB84E] hover:text-black transition-all mt-3 md:mt-5 justify-center border-[#FDB84E] text-[#FDB84E] md:text-xl py-2 md:py-3'>
      
        <FaMailBulk className=' md:text-2xl'/>
            Contact

@@ -13,7 +13,7 @@ const Services = () => {
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Dextool Trending</p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -29,7 +29,7 @@ send a message to secure a spot in the next trending pairs.
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Cex listings</p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -43,7 +43,7 @@ We are in collaboration with some CEX exchanges, which enables us fast access to
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Chinese/asian marketing</p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -57,7 +57,7 @@ We are in collaboration with some CEX exchanges, which enables us fast access to
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Telegram calls</p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -71,7 +71,7 @@ All calls channels we are in paterner whth are verifed by Pinksale and are fille
 <section className='border-2 border-[#FDB94D] h-[150px] p-3 '>
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase text-[#FDB94D] font-medium'>Cmc/cg listing</p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -86,7 +86,7 @@ We offer CMC/CG Fast track listing, this can be done through the database and al
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Telegram/Twitter AMA’s
 </p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -102,7 +102,7 @@ We offer CMC/CG Fast track listing, this can be done through the database and al
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Shilling services
 </p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>
@@ -117,7 +117,7 @@ We have a group of shliiers always active and ready to shill your project to the
 <div className='flex justify-between text-[#FDB94D]'>
 <p className=' uppercase  font-medium'>Tending bots
 </p>
-<a href="http://t.me/Marcus_Caros">
+<a href="http://t.me/MarcusCaros">
 <FaTelegramPlane className='text-xl mr-5'/>
 </a>
 </div>

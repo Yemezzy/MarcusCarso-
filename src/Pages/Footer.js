@@ -7,9 +7,9 @@ const Footer = () => {
         <section className=''>
             <p className='font-bold text-lg md:text-xl'>Message us:</p>
             <div className='flex md:mt-2 gap-5 font-semibold underline'>
-                <a href="http://t.me/Marcus_Caros"><p>Telegram</p></a>
-                <a href="http://t.me/Marcus_Caros"><p>Twitter</p></a>
-                <a href="http://t.me/Marcus_Caros"><p>Email</p></a>
+                <a href="http://t.me/MarcusCaros"><p>Telegram</p></a>
+                <a href="http://t.me/MarcusCaros"><p>Twitter</p></a>
+                <a href="http://t.me/MarcusCaros"><p>Email</p></a>
             </div>
             <p className='md:text-base text-sm md:pr-5 mt-1 '>For more information or to discuss how we can support your project, please get in touch with us.</p>
         </section>
